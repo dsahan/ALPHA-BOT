@@ -1,5 +1,5 @@
 {
-    "name": "⎝🛡️ JARVIS 🛡️⎠ WhatsApp User Bot v4.0.0",
+    "name": "⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0",
     "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
     "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
     "keywords": ["Achi Bro lk | PG", "ALPHA"],
@@ -15,7 +15,7 @@
         },
           "MENU_CMD": {
             "description": "TYPE YOUR MENU COMMAND.ඔබෙ මෙනු එක ගැනිම සදහා අවශ්‍ය නම් විදානයක් සකසන්න.",
-            "value":"jarvis"
+            "value":"alpha"
         },      
         "ALIVE_LOGO": {
             "description": "If you do not want to change Alive Logo put here to your image direct link or, type default. ඔබගෙ alive logo එක සාදහා ඔබෙ logo එකක් යේදිමට අවශ්‍ය නම් මෙහි link එක යොදන්න.",
@@ -196,7 +196,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION  මෙහි ඔබගෙ බොට්ගෙ නම යොදන්න. ",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡️ JARVIS🛡️⎠│"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡️ ALPHA 🛡️⎠│"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this. කිසිවක් වෙනස් නොකරන්න. ",
